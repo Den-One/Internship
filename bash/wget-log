@@ -1,0 +1,11 @@
+--2021-02-25 16:54:41--  https://im0-tub-ru.yandex.net/i?id=cd22a6c5f51c3a5ecbd72dd14a661bf5
+Resolving im0-tub-ru.yandex.net (im0-tub-ru.yandex.net)... 213.180.193.60, 87.250.251.60, 213.180.204.60, ...
+Connecting to im0-tub-ru.yandex.net (im0-tub-ru.yandex.net)|213.180.193.60|:443... connected.
+HTTP request sent, awaiting response... 200 Ok
+Length: 4368 (4,3K) [image/jpeg]
+Saving to: ‘cat.jpg’
+
+cat.jpg               0%[                    ]       0  --.-KB/s               cat.jpg             100%[===================>]   4,27K  --.-KB/s    in 0s      
+
+2021-02-25 16:54:42 (64,6 MB/s) - ‘cat.jpg’ saved [4368/4368]
+
